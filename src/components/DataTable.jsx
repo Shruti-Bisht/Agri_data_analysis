@@ -115,4 +115,10 @@ const DataTable = () => {
             <Table.Th>Average Cultivation Area of the Crop between 1950-2020 (Ha)</Table.Th>
           </Table.Tr>
         </Table.Thead>
-        
+        <Table.Tbody>{rows2}</Table.Tbody>
+      </Table>
+    </div>
+  );
+};
+
+export default DataTable;
