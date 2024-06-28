@@ -17,5 +17,6 @@ You may also see any lint errors in the console.
 
 
 ### Screenshot of Tables 
-![2024-06-28 09 58 56](https://github.com/Shruti-Bisht/Agri_data_analysis/assets/110077886/c8eb7012-59cd-4398-8f08-fd97a737ef69)
+Table 1 : ![Table1](https://github.com/Shruti-Bisht/Agri_data_analysis/assets/110077886/c9b635ea-fa64-40eb-bdaf-aac2c81ac32c)
+Table 2 :![Table 2](https://github.com/Shruti-Bisht/Agri_data_analysis/assets/110077886/d60df285-c4c3-4922-b454-1a76a93d47ea)
 
